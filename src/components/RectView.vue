@@ -30,6 +30,6 @@ export default {
 </script>
 <style>
 rect {
-  border: 1px solid red;
+  border: 1px solid rgb(11, 136, 232);
 }
 </style>
